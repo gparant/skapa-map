@@ -23,9 +23,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json#front_of_skapa"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
